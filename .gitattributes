@@ -4,3 +4,4 @@ yelp/yelp_business.csv filter=lfs diff=lfs merge=lfs -text
 yelp/yelp_interactions.csv filter=lfs diff=lfs merge=lfs -text
 moviestv/moviestv_interactions.csv filter=lfs diff=lfs merge=lfs -text
 moviestv/moviestv.csv filter=lfs diff=lfs merge=lfs -text
+yelp/yelp_catalog.jsonl filter=lfs diff=lfs merge=lfs -text
